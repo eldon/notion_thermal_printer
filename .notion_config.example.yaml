@@ -1,0 +1,5 @@
+---
+auth_token: <your notion auth token>
+database_id: <your notion database id>
+record_property: Status
+record_value: On Deck
